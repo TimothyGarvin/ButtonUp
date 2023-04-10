@@ -1,0 +1,32 @@
+.search, .plus, .create {
+    margin-bottom:20px;
+    display:block;
+    height: 30px;
+}
+
+.search {
+    background-color:whitesmoke;
+    color:aquamarine;
+    font-weight:900;
+    border: 2px solid aquamarine;
+    border-radius: 20px;
+    width:100px;
+    text-align: center;
+}
+.plus {
+    border:none;
+    border-radius:50%;
+    width:30px;
+    background-color:aquamarine;
+    color:whitesmoke;
+    text-align: center;
+}
+.create {
+    border:2px solid black;
+    border: radius 100%;
+    width:150px;
+    background-color:blue;
+    color:whitesmoke;
+    text-align: center;
+    box-shadow: 2px 2px black;
+}
